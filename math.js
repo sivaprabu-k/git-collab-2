@@ -14,6 +14,4 @@ console.log(add(4,4))
 console.log(subtract(10,5))
 console.log(multiply(4,4));
 
-console.log(add(4,4))
-console.log(subtract(10-5));
-console.log(multiply(4*4));
+
